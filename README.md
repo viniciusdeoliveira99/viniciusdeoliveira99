@@ -5,7 +5,7 @@ My name is Vinícius Mattos
 I'm Software Developer 💻 from Brazil 🇧🇷
 
 
-<a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={viniciusdeoliveira99}&theme={dark}" ></a>
+<img src="{[BadgeURLHere](https://github-readme-stats.vercel.app/api/top-langs/?username={viniciusdeoliveira99}&theme={dark})}" /> 
 
 
 - 🌱 I’m currently learning ReactJS and PowerBI
