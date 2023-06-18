@@ -4,9 +4,12 @@ My name is Vinícius Mattos
 
 I'm Software Developer 💻 from Brazil 🇧🇷
 
+
+<a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={viniciusdeoliveira99}&theme={dark}" ></a>
+
+
 - 🌱 I’m currently learning ReactJS and PowerBI
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username={viniciusdeoliveira99}&theme={react-dark}" />
 
 - 📫 How to reach me: 
 
