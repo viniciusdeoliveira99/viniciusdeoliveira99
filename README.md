@@ -2,7 +2,7 @@
 
 My name is Vinícius Mattos
 
-I'm a Software Developer 💻 from Brazil 🇧🇷
+I'm Software Developer 💻 from Brazil 🇧🇷
 
 - 🌱 I’m currently learning ReactJS, VueJS and many others
 - 📫 How to reach me: 
